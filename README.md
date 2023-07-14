@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/Author-xuehaoweng-orange.svg"/>
     </a>
 </p>
+
 ## 修改和风天气key
 
 > weatherKey = 'abcdefghijklmnopqrstuvwxyz'
