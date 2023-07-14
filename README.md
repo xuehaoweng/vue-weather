@@ -1,14 +1,15 @@
-# weather
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-brightgreen.svg"/>
+    <img src="https://img.shields.io/badge/Django-orange.svg"/>
+    <img src="https://img.shields.io/badge/FastAPI-brightgreen.svg"/>
+    <img src="https://img.shields.io/badge/Vue3-blue.svg"/>
+    <img src="https://img.shields.io/badge/Vite-orange.svg"/>
+    <img src="https://img.shields.io/badge/NaiveUI-blue.svg"/>
+    <img src="https://img.shields.io/badge/license-Apache-green.svg"/>
+    <a href="https://gitee.com/youlaiorg" target="_blank">
+        <img src="https://img.shields.io/badge/Author-xuehaoweng-orange.svg"/>
+    </a>
+</p>
 
 ## Project Setup
 
